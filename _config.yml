@@ -4,6 +4,8 @@ permalink: /:year/:month/:day/:title
 #permalink: /posts/:title.html
 exclude:
   - README.md
+markdown: rdiscount
+pygments: true
 
 name: 回眸往事
 host: http://lifecn.github.io/
