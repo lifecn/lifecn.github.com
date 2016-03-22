@@ -1,5 +1,7 @@
 safe: false
-permalink: /posts/:title.html
+permalink: /:year/:month/:day/:title
+#permalink: /:categories/:year/:month/:day/:title
+#permalink: /posts/:title.html
 exclude:
   - README.md
 
